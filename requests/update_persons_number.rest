@@ -1,0 +1,8 @@
+PUT http://localhost:3001/api/persons/6025a50eab0e8b2c8ba78dd3
+Content-Type: application/json
+
+{
+    "name": "Naapurin Pena",
+    "number": "045-6548764",
+    "id": "6025a50eab0e8b2c8ba78dd3"
+}
